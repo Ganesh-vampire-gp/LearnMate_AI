@@ -1,0 +1,11 @@
+```
+# The .env file contains environment variables.
+# It should not be pushed to GitHub.
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.vscode/
+.idea/
+```
