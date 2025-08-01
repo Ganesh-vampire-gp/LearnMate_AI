@@ -15,9 +15,6 @@ LearnMate is an intelligent AI-powered learning assistant that generates a 10-we
 - Python + Prompt Engineering
 - IBM Cloud Lite (for hosting Granite)
 
-## 🚀 Try It Live
-Click here: [Live App URL Will Go Here]
-
 ## 📥 Input Form
 - Name
 - Skill level (Beginner, Intermediate, Advanced)
