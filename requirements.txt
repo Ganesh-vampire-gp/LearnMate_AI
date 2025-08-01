@@ -1,4 +1,5 @@
 streamlit==1.35.0
-ibm-watson-machine-learning==1.0.320
+ibm-watsonx-ai
 ibm-cloud-sdk-core==3.16.8
 requests
+python-dotenv
