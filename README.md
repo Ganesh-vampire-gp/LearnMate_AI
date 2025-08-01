@@ -25,6 +25,12 @@ LearnMate is an intelligent AI-powered learning assistant that generates a 10-we
 ## 📚 Output
 - Custom roadmap (Week 1 to Week 10)
 - Aligned to interests and skill level
+<img width="1359" height="626" alt="Screenshot 2025-08-01 234423" src="https://github.com/user-attachments/assets/4e7a767b-8db4-4299-ac5e-d27fec03791d" />
+
+<img width="1016" height="627" alt="Screenshot 2025-08-01 234438" src="https://github.com/user-attachments/assets/2b00c9a5-40c9-4040-83ab-ebd9f204004a" />
+
+<img width="1014" height="620" alt="image" src="https://github.com/user-attachments/assets/ddfdd9f3-b222-4d91-b893-58646cdc23ee" />
+
 
 ---
 
